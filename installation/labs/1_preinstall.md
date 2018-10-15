@@ -23,7 +23,7 @@ vim /etc/selinux/config --> SELINUX=disabled
 
 1. sudo bash -c "echo 'vm.swappiness = 1' >> /etc/sysctl.conf" && sudo sysctl vm.swappiness=1
 
-![1539619475894](C:\Users\w8\AppData\Roaming\Typora\typora-user-images\1539619475894.png)
+![1539619475894](./1539619475894.png)
 
 
 

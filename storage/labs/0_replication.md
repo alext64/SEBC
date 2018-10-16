@@ -10,4 +10,8 @@
 
 There is a problem with our network configuration. **Investigating ....**
 
+Other partner:
+
 hadoop distcp hdfs://gianbo01.northeurope.cloudapp.azure.com/hdfs_lab/gianfolo/unsorted/part-m-00000 hdfs://sebc01:8020/user/bdany70/
+
+Opened other ports in Azure firewall

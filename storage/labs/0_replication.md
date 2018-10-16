@@ -48,4 +48,4 @@ My generated file:
 
 My partner file:
 
-![./](C:\SEBC\storage\labs\0_replication.png)
+![./](./0_replication.png)

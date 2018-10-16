@@ -1,4 +1,6 @@
-*Acquire hdfs user rights:* export HADOOP_USER_NAME=hdfs
+
+
+Acquire hdfs user rights:* export HADOOP_USER_NAME=hdfs
 
 *Create my target directory :* hadoop fs -mkdir /user/alext64/
 
@@ -15,3 +17,13 @@ Other partner:
 hadoop distcp hdfs://gianbo01.northeurope.cloudapp.azure.com/hdfs_lab/gianfolo/unsorted/part-m-00000 hdfs://sebc01:8020/user/bdany70/
 
 Opened other ports in Azure firewall
+
+At the end: *added public ip of my partner VMs in my hosts files and set to true dfs.client.use.datanode.hostname* . 
+
+My generated file:
+
+![](C:\SEBC\storage\labs\0_replication_1.png)
+
+My partner file:
+
+![./](C:\SEBC\storage\labs\0_replication.png)

@@ -2,12 +2,12 @@ Impesonate hdfs user because sudo .. -c makes troubles:
 
 ```shell
 export HADOOP_USER_NAME=hdfs
-hadoop fs -copyFromLocal /home/alext/SEBC-master.zip /user/alext64/             precious/
+hadoop fs -copyFromLocal /home/alext/SEBC-master.zip /user/alext64/precious/
 ```
 
 ```shell
 hadoop fs -ls /user/alext64/precious/*
--rw-r--r--   3 hdfs alext64    1720611 2018-10-16 12:39 /user/alext64/precious/SEBC-m                aster.zip
+-rw-r--r--   3 hdfs alext64    1720611 2018-10-16 12:39 /user/alext64/precious/SEBC-master.zip
 
 ```
 

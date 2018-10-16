@@ -13,7 +13,7 @@ hadoop fs -ls /user/alext64/precious/*
 
 Created snapshot:
 
-![](./1539694143651.png)
+![./](./1539694143651.png)
 
 Can't remove directory first!
 

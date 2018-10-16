@@ -22,7 +22,7 @@ At the end: *added public ip of my partner VMs in my hosts files and set to true
 
 My generated file:
 
-![](C:\SEBC\storage\labs\0_replication_1.png)
+![](./0_replication_1.png)
 
 My partner file:
 

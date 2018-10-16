@@ -13,7 +13,7 @@ hadoop fs -ls /user/alext64/precious/*
 
 Created snapshot:
 
-![1539694143651](C:\Users\w8\AppData\Roaming\Typora\typora-user-images\1539694143651.png)
+![1539694143651](./1539694143651.png)
 
 Can't remove directory first!
 
@@ -49,6 +49,6 @@ rm: The directory /user/alext64/precious cannot be deleted since /user/alext64/p
 
 Restored from the snapshot:
 
-![](C:\SEBC\storage\labs\2_snapshot_list.png)
+![](./2_snapshot_list.png)
 
-![](C:\SEBC\storage\labs\2_snapshot_list_2.png)
+![](./2_snapshot_list_2.png)

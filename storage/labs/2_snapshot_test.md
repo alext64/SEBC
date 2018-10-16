@@ -43,10 +43,10 @@ But...
 
 ```
 [alext@sebc01 ~]$ sudo -E su - hdfs -c "hadoop fs -rm -skipTrash -r /user/alext64/precious"
-rm: The directory /user/alext64/precious cannot be deleted since /user/alext64/precious is snapshottable and already has snapshots
+rm: The directory  /user/alext64/precious cannot be deleted since /user/alext64/precious is snapshottable and already has snapshots
 
 ```
-
+ 
 Restored from the snapshot:
 
 ![](./2_snapshot_list.png)

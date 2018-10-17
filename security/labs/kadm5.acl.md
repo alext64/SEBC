@@ -1,0 +1,4 @@
+```shell
+*/admin@HADOOP.COM      *
+```
+

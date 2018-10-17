@@ -48,3 +48,5 @@ user    0m17.839s
 sys     0m2.172s
 ```
 
+So, Teragen likes mappers and Terasort works well with more reducers.
+My memory configuration is a limit (just 10 GB available), so best results are with the lower setting of 512.

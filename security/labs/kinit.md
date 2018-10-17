@@ -3,7 +3,7 @@
 Password for alext64@HADOOP.COM:
 ```
 
-```
+```shell
 [alext@sebc01 ~]$ klist -l
 Principal name                 Cache name
 --------------                 ----------

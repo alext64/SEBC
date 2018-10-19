@@ -5,7 +5,8 @@ kinit: Password incorrect while getting initial credentials
 [raffles@sebx01 ~]$ kinit fullerton@ALEXT64.SG
 Password for fullerton@ALEXT64.SG:
 
-
+Run this cmd on all VM:
+sudo rm -rf /data/1/yarn/nm/usercache/*  /data/2/yarn/nm/usercache/* /data/3/yarn/nm/usercache/* /data/4/yarn/nm/usercache/* /data/5/yarn/nm/usercache/*
 ```
 
 ```shell

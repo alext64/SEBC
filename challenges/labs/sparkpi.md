@@ -1,9 +1,6 @@
 ```shell
 [alext@sebx04 ~]$ kinit raffles@ALEXT64.SG
 Password for raffles@ALEXT64.SG:
-kinit: Password incorrect while getting initial credentials
-[alext@sebx04 ~]$ kinit raffles@ALEXT64.SG
-Password for raffles@ALEXT64.SG:
 [alext@sebx04 ~]$ klist -l
 Principal name                 Cache name
 --------------                 ----------
